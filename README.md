@@ -102,12 +102,19 @@ assets/screenshots/
 
 lib/
  ├── main.dart
+ 
  ├── models/
+ 
  │    └── task.dart
+ 
  ├── screens/
+ 
  │    ├── splash_screen.dart
+ 
  │    ├── home_screen.dart
+ 
  │    ├── add_task_screen.dart
+ 
  │    └── task_details_screen.dart
 
 ---
