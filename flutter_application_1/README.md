@@ -72,5 +72,49 @@ No backend service, database, or local storage is used.
 
 All application screenshots are stored in:
 
-```text
+```
 assets/screenshots/
+```
+
+## 🚀 How to Run the App
+
+1. Ensure Flutter is installed on your system
+
+2. Clone the repository:
+   
+   ```git clone <repository-link>```
+
+3. Navigate to the project directory:
+   
+   ```cd flutter_application_1```
+
+4. Install dependencies:
+   
+   ```flutter pub get```
+
+5. Run the application:
+   
+   ```flutter run```
+
+---
+
+## 📂 Project Structure
+
+lib/
+ ├── main.dart
+ ├── models/
+ │    └── task.dart
+ ├── screens/
+ │    ├── splash_screen.dart
+ │    ├── home_screen.dart
+ │    ├── add_task_screen.dart
+ │    └── task_details_screen.dart
+
+---
+
+## 🛠️ Tools & Technologies Used
+
+- Flutter
+- Dart
+- Android Emulator/Physical Android Device/Web Browser
+- Git & GitHub
