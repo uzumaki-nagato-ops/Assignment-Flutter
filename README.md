@@ -80,15 +80,19 @@ assets/screenshots/
 1. Ensure Flutter is installed on your system
 
 2. Clone the repository:
+   
    git clone <repository-link>
 
 3. Navigate to the project directory:
+   
    cd flutter_application_1
 
 4. Install dependencies:
+   
    flutter pub get
 
 5. Run the application:
+   
    flutter run
 
 ---
