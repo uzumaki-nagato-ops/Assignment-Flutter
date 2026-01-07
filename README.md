@@ -71,9 +71,10 @@ No backend service, database, or local storage is used.
 ## 📸 Screenshots
 
 All application screenshots are stored in:
-assets/screenshots/
 
----
+```
+assets/screenshots/
+```
 
 ## 🚀 How to Run the App
 
@@ -81,19 +82,19 @@ assets/screenshots/
 
 2. Clone the repository:
    
-   git clone <repository-link>
+   ```git clone <repository-link>```
 
 3. Navigate to the project directory:
    
-   cd flutter_application_1
+   ```cd flutter_application_1```
 
 4. Install dependencies:
    
-   flutter pub get
+   ```flutter pub get```
 
 5. Run the application:
    
-   flutter run
+   ```flutter run```
 
 ---
 
